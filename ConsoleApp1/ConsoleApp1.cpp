@@ -11,6 +11,7 @@ int main()
 	std::cout << "Next Step 3 \n";
 	std::cout << "Next Step 4 \n";
 	std::cout << "Next Step 5 \n";
+	std::cout << "Next Step 6 \n";
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
