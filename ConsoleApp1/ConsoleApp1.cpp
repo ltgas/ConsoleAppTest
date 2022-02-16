@@ -5,8 +5,9 @@
 
 int main()
 {
-    std::cout << "Hello VisualStudio 2017! Countine...\n";
-	std::cout << "Nest step 1 \n";
+    std::cout << "Hello VisualStudio 2017! \nCountine...\n";
+	std::cout << "Next step 1 \n";
+	std::cout << "Next Step 2 \n";
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
